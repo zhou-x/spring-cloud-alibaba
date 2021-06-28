@@ -1,0 +1,8 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: sca-provider
+  cloud:
+    nacos: #服务注册
+      server-addr: localhost:8848

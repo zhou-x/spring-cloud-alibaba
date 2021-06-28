@@ -1,0 +1,3 @@
+# Project exclude paths
+/sca-jt/sca-consumer/target/
+/sca-jt/sca-provider/target/

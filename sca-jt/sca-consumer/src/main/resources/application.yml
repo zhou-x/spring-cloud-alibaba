@@ -1,0 +1,8 @@
+server:
+  port: 8092
+spring:
+  application:
+    name: sca-consumer
+  cloud:
+    nacos: #服务注册
+      server-addr: localhost:8848
